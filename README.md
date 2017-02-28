@@ -20,7 +20,7 @@ AFND => AFD
 	Pour chaque etat :
  	une fenetre va s'afficher
 	   --Entrer l'etat
-	PS:l'etat entré doit etre un entier qui commence obligatoirement par 0
+	PS:les états  sont des nombre de 0 jusqu 'à n  ( etat1=0 etat2=1 etat3=2 .....)
 	   --Cliquer sur valider
 	les etats normales ajoutés vont etre affiché à la fin de l'ajout de tous les etats
 	2.2-Ajouter les etats finales	
