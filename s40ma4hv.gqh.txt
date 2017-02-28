@@ -1,0 +1,20 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   ADF/Automate.java
+#	new file:   ADF/Fen1.java
+#	new file:   ADF/Fen2.java
+#	new file:   ADF/Fen3.java
+#	new file:   ADF/Fen4.java
+#	new file:   ADF/Fen5.java
+#	new file:   ADF/FenitrePrinc.java
+#	new file:   ADF/Transformation.java
+#
+# Untracked files:
+#	pap.png
+#
+
